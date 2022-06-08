@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63956719788",
+    "project_id": "gmaptracker-ab95a",
+    "storage_bucket": "gmaptracker-ab95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63956719788:android:5a92beb4b68b6fd9b82709",
+        "android_client_info": {
+          "package_name": "com.example.gmaptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63956719788-7a25ideanvpvl3h94abrgd85u9lp3fvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYMP0zCQQ7Dnxp_-AlwTC3-6DOdgRpwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63956719788-7a25ideanvpvl3h94abrgd85u9lp3fvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
